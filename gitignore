@@ -1,0 +1,28 @@
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore VirtualBox files
+*.vbox
+*.vbox-prev
+*.log
+*.sav
+
+# Ignore VM disk images
+*.vdi
+*.vmdk
+*.iso
+*.ova
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore backup files
+*.bak
+*.swp
+
+# Ignore OS-specific files
+Desktop.ini
+$RECYCLE.BIN/
